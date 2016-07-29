@@ -8,5 +8,6 @@ public class TestClass {
 	public void testOutput(){
 		
 		System.out.println("Hello!!!");
+		System.out.println("GitRepo");
 	}
 }
